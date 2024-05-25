@@ -1,4 +1,4 @@
-package dev.danvega.hj17;
+package com.kinesis.consumer;
 
 public record Student(String name) {
 }
